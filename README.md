@@ -1,2 +1,2 @@
-# Btc-ai-competitor
+# my btc bot note Btc-ai-competitor
 Our adaptive ai btc trading bot 
